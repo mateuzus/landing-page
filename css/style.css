@@ -215,6 +215,57 @@ font-size: 25px;
     padding: 6px 12px;
     color: white;
     border-radius: 20px;
-    width: 600px;
+    width: 800px;
 }
 
+#btn-1 {
+    margin-left: auto;
+}
+
+.col-12 button {
+    justify-content: center;
+}
+
+.btn_collapse{
+    width: 100%;
+    border-radius: 10px;
+    background-color: #d2d2d2;
+}
+
+.card-collapse{
+    width: 100%;
+    background-color: #e3e4df;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.fale-conosco{
+    text-align: center;
+}
+
+#contact {
+    color: #212529;
+    background: #FDC019;
+    height: 80vh;
+}
+
+#contact input {
+    border-radius: 20px;
+}
+
+.btn_envia{
+    width: 50%;
+    border-radius:25px;
+    background-color: #709ed6;
+    color: white;
+}
+.btn_envia:hover{
+    background-color: #20579b;
+}
+
+#info.col-12.col-md-6.mt-5{
+    color: #212529;
+    font-size: 16px;
+    margin: 48px 0 0;
+    padding: 0px 15px;
+}
